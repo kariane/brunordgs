@@ -1,7 +1,8 @@
 # Bruno Rodrigues
-### Hey everyone 👋
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-44475a?style=flat&labelColor=44475a&logo=twitter&logoColor=white&link=https://twitter.com/brunordgss)](https://twitter.com/brunordgss)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-44475a?style=flat&labelColor=44475a&logo=linkedin&logoColor=white&link=https://linkedin.com/brunordgs)](https://linkedin.com/in/brunordgs/)
+### Hey everyone 👋
+
 <!--
 **brunordgs/brunordgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
