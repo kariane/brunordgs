@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# Bruno Rodrigues
+### Hey everyone 👋
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-44475a?style=flat&labelColor=44475a&logo=twitter&logoColor=white&link=https://twitter.com/brunordgss)](https://twitter.com/brunordgss)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-44475a?style=flat&labelColor=44475a&logo=linkedin&logoColor=white&link=https://linkedin.com/brunordgs)](https://linkedin.com/brunordgs)
 <!--
 **brunordgs/brunordgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Enthusiast in mobile and web development 💜
+- I’m currently learning Javascript
+- Focus on Omnistack (Node.js, React and React Native)
+
+Stay focus, drink coffee and go ahead.
