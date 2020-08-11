@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Enthusiast in mobile and web development 💜
+Enthusiast in web and mobile development 💜
 - I’m currently learning Javascript
+- I started learning web development in May of 2020
 - Focus on Omnistack (Node.js, React and React Native)
 
 Stay focus, drink coffee and go ahead.
