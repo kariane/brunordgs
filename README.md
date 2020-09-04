@@ -23,4 +23,4 @@ Enthusiast in web and mobile development 💜
 - I started learning web development in May of 2020
 - Focus on Node.js, React and React Native
 
-Stay focus, drink coffee and go ahead.
+Stay focused, drink coffee and go ahead.
