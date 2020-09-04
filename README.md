@@ -1,5 +1,5 @@
 # Bruno Rodrigues
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-44475a?style=flat&labelColor=44475a&logo=twitter&logoColor=white&link=https://twitter.com/brunordgss)](https://twitter.com/brunordgss)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-44475a?style=flat&labelColor=44475a&logo=twitter&logoColor=white&link=https://twitter.com/brunordgss)](https://twitter.com/brubebs)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-44475a?style=flat&labelColor=44475a&logo=linkedin&logoColor=white&link=https://linkedin.com/brunordgs)](https://linkedin.com/in/brunordgs/)
 ### Hey everyone 👋
 
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 Enthusiast in web and mobile development 💜
 - I’m currently learning Javascript
 - I started learning web development in May of 2020
-- Focus on Omnistack (Node.js, React and React Native)
+- Focus on Node.js, React and React Native
 
 Stay focus, drink coffee and go ahead.
