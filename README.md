@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 Enthusiast in web and mobile development 💜
 - I’m currently learning Javascript
 - I started learning web development in May of 2020
-- Focus on Node.js, React and React Native
+- Focus on learning Node.js, React and React Native
 
 Stay focused, drink coffee and go ahead.
